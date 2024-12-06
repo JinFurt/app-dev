@@ -11,3 +11,6 @@ BSIT 2.2C
 3rd year - 
 BSIT 3.1C,
 BSIT 3.2C
+
+Previous School
+Dr. Juan A Pastor Memorial Integrated School
