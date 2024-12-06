@@ -1,7 +1,5 @@
 # app-dev
 
-My Favorite Game is
+My Favorite Subject is
 
-Mobile Legends 
-
-Scatter
+Any connected to Math
