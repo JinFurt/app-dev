@@ -1,5 +1,4 @@
 # app-dev
-My first repository
 
 1st year - 
 BSIT 1.1C, 
