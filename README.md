@@ -1,7 +1,6 @@
 # app-dev
 
-Favorite Places
+My Dream is
 
-Philippines
-Usa
-Singapore
+to be with him
+and achieve my goals.
