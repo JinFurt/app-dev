@@ -1,5 +1,7 @@
 # app-dev
 
-Title Proposal
+My Favorite Game is
 
-"IEC Ibaan Electric Corporation: Design of an Interactive Mobile System for Electricity Usage Notifications, Online Billing and Latest Updates"
+Mobile Legends 
+
+Scatter
