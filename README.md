@@ -1,7 +1,7 @@
 # app-dev
 
-Favorite Foods
-Sweets baked cake
-Sweet and Salty Dishes
-Rice
-Snacks
+Favorite Places
+
+Philippines
+Usa
+Singapore
