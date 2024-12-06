@@ -1,6 +1,5 @@
 # app-dev
 
-My Dream is
+Title Proposal
 
-to be with him
-and achieve my goals.
+"IEC Ibaan Electric Corporation: Design of an Interactive Mobile System for Electricity Usage Notifications, Online Billing and Latest Updates"
