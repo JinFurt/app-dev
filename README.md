@@ -1,8 +1,7 @@
 # app-dev
-My first repository
 
-My lifetime crush
-
-Marc Anthony Yuzon
-
-Tourism Student
+Favorite Foods
+Sweets baked cake
+Sweet and Salty Dishes
+Rice
+Snacks
